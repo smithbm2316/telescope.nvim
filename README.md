@@ -671,7 +671,7 @@ supports tab completions and settings options.
 
 ### How to change some defaults in built-in functions?
 
-All options available from the setup function (see [Configuration options]()) and
+All options available from the setup function (see [Configuration options](https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes)) and
 some other functions can be easily changed in custom pickers or built-in
 functions.
 <!-- TODO: insert a list of available options like previewer and prompt prefix -->
